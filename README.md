@@ -27,6 +27,8 @@
 
 [![Screenrecording-25641015-143915.gif](https://i.postimg.cc/L5XSm5k4/Screenrecording-25641015-143915.gif)](https://postimg.cc/N9WS4gPZ)
 
+-ลบสินค้า
+
 ### แก้ไข
 
 [![image.png](https://i.postimg.cc/ydwbJNcy/image.png)](https://postimg.cc/jw4Xmt8D)
